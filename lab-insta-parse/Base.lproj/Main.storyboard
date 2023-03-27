@@ -278,7 +278,7 @@
                                             <constraints>
                                                 <constraint firstAttribute="trailing" secondItem="fg2-JN-NsP" secondAttribute="trailing" priority="999" id="G5X-7O-mlB"/>
                                                 <constraint firstItem="fg2-JN-NsP" firstAttribute="top" secondItem="EvC-EF-v9N" secondAttribute="topMargin" id="l7u-oT-9Gk"/>
-                                                <constraint firstAttribute="bottomMargin" secondItem="fg2-JN-NsP" secondAttribute="bottom" priority="999" id="vit-td-jAp"/>
+                                                <constraint firstAttribute="bottom" secondItem="fg2-JN-NsP" secondAttribute="bottom" priority="999" constant="11" id="vit-td-jAp"/>
                                                 <constraint firstItem="fg2-JN-NsP" firstAttribute="leading" secondItem="EvC-EF-v9N" secondAttribute="leading" id="xYZ-Yu-Ijm"/>
                                             </constraints>
                                         </tableViewCellContentView>
